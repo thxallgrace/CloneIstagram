@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "486453883913",
+    "project_id": "cloneistagram-aa814",
+    "storage_bucket": "cloneistagram-aa814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486453883913:android:b7c87b66d5d0f86ae9b4d8",
+        "android_client_info": {
+          "package_name": "kr.thxallgrace.mvvminstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486453883913-r2o15cf1is6105992nsfa0mqlobdbl1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCShIU10qg7QlqEPae1oX_OHaTYJreeTyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486453883913-r2o15cf1is6105992nsfa0mqlobdbl1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
